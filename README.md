@@ -28,6 +28,7 @@ IT, data, or cybersecurity role in New Zealand.
 |---------|----------|-------|------|
 | [Windows Security Event Log Analysis](./windows-log-analysis.md) | SOC Analysis | Windows Event Viewer · MITRE ATT&CK | May 2026 |
 | [NZ Privacy Act 2020 Compliance Assessment](./nz-privacy-act-gap-analysis.md) | GRC Analysis | NZ Privacy Act 2020 · Excel | May 2026 |
+| [Phishing Email Analysis](./phishing-email-analysis.md) | SOC Analysis | Thunderbird · URL2PNG · Header Analysis | June 2026 |
 
 *More projects being added weekly*
 
